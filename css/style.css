@@ -1,0 +1,12 @@
+/* .text{
+    resize: none;
+    width: 200px;
+    height: 250px;
+/* } */
+table,td,th{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+caption{
+    caption-side: top;
+}
